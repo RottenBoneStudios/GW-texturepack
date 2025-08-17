@@ -18,4 +18,3 @@ Obtener el HASH para una descarga segura y rapida:
 
 Windows (PowerShell)
 Get-FileHash "GatitosWorld.zip" -Algorithm SHA1
-
