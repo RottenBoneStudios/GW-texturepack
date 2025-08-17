@@ -11,3 +11,9 @@ Este pack es necesario para poder jugar en el servidor y disfrutar de la experie
 - Modelos y texturas personalizadas.  
 - Experiencia unificada en todos los servidores de la network.  
 - Compatible con versiones modernas de Minecraft (recomendado **1.20+**).  
+
+---
+
+Obtener el HASH para una descarga segura y rapida:
+Windows (PowerShell)
+Get-FileHash "GatitosWorld.zip" -Algorithm SHA1
